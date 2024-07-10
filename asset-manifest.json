@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/protein-viewer/static/css/main.7c7e0555.css",
+    "main.js": "/protein-viewer/static/js/main.ebc1e653.js",
+    "static/js/453.98720cdb.chunk.js": "/protein-viewer/static/js/453.98720cdb.chunk.js",
+    "index.html": "/protein-viewer/index.html",
+    "main.7c7e0555.css.map": "/protein-viewer/static/css/main.7c7e0555.css.map",
+    "main.ebc1e653.js.map": "/protein-viewer/static/js/main.ebc1e653.js.map",
+    "453.98720cdb.chunk.js.map": "/protein-viewer/static/js/453.98720cdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c7e0555.css",
+    "static/js/main.ebc1e653.js"
+  ]
+}
